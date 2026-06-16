@@ -1,0 +1,1 @@
+Analysis code for a multi-center smartwatch-based lifelog monitoring study in post-stroke patients, including questionnaire-score processing, IMU-derived activity features, PPG-HRV features, participant-level summaries, domain-composite analyses, and supplementary table generation.
